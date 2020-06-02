@@ -1,0 +1,11 @@
+C:\Users\Emil\Desktop\aaaaa\SqlDatabase\bin\Debug\netstandard2.0\SqlDatabase.deps.json
+C:\Users\Emil\Desktop\aaaaa\SqlDatabase\bin\Debug\netstandard2.0\SqlDatabase.dll
+C:\Users\Emil\Desktop\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.AssemblyInfo.cs
+C:\Users\Emil\Desktop\aaaaa\SqlDatabase\bin\Debug\netstandard2.0\SqlDatabase.pdb
+C:\Users\Emil\Desktop\aaaaa\SqlDatabase\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Emil\Desktop\aaaaa\SqlDatabase\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Emil\Desktop\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.csprojAssemblyReference.cache
+C:\Users\Emil\Desktop\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.csproj.CopyComplete
+C:\Users\Emil\Desktop\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.dll
+C:\Users\Emil\Desktop\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.pdb

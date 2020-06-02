@@ -1,0 +1,15 @@
+C:\Users\Emil\Desktop\aaaaa\Controllers\bin\Debug\netstandard2.0\Controllers.deps.json
+C:\Users\Emil\Desktop\aaaaa\Controllers\bin\Debug\netstandard2.0\Controllers.dll
+C:\Users\Emil\Desktop\aaaaa\Controllers\obj\Debug\netstandard2.0\Controllers.csprojAssemblyReference.cache
+C:\Users\Emil\Desktop\aaaaa\Controllers\obj\Debug\netstandard2.0\Controllers.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\aaaaa\Controllers\obj\Debug\netstandard2.0\Controllers.AssemblyInfo.cs
+C:\Users\Emil\Desktop\aaaaa\Controllers\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Emil\Desktop\aaaaa\Controllers\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Emil\Desktop\aaaaa\Controllers\obj\Debug\netstandard2.0\Controllers.csproj.CopyComplete
+C:\Users\Emil\Desktop\aaaaa\Controllers\bin\Debug\netstandard2.0\Models.dll
+C:\Users\Emil\Desktop\aaaaa\Controllers\bin\Debug\netstandard2.0\Controllers.pdb
+C:\Users\Emil\Desktop\aaaaa\Controllers\bin\Debug\netstandard2.0\Models.pdb
+C:\Users\Emil\Desktop\aaaaa\Controllers\obj\Debug\netstandard2.0\Controllers.dll
+C:\Users\Emil\Desktop\aaaaa\Controllers\obj\Debug\netstandard2.0\Controllers.pdb
+C:\Users\Emil\Desktop\aaaaa\Controllers\bin\Debug\netstandard2.0\SqlDatabase.dll
+C:\Users\Emil\Desktop\aaaaa\Controllers\bin\Debug\netstandard2.0\SqlDatabase.pdb
