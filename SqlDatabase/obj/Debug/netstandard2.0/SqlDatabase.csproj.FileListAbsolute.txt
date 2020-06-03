@@ -9,3 +9,14 @@ C:\Users\Emil\Desktop\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.csp
 C:\Users\Emil\Desktop\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.csproj.CopyComplete
 C:\Users\Emil\Desktop\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.dll
 C:\Users\Emil\Desktop\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.pdb
+D:\Projects\aaaaa\SqlDatabase\bin\Debug\netstandard2.0\SqlDatabase.deps.json
+D:\Projects\aaaaa\SqlDatabase\bin\Debug\netstandard2.0\SqlDatabase.dll
+D:\Projects\aaaaa\SqlDatabase\bin\Debug\netstandard2.0\SqlDatabase.pdb
+D:\Projects\aaaaa\SqlDatabase\bin\Debug\netstandard2.0\Entities.dll
+D:\Projects\aaaaa\SqlDatabase\bin\Debug\netstandard2.0\Entities.pdb
+D:\Projects\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.csprojAssemblyReference.cache
+D:\Projects\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.AssemblyInfoInputs.cache
+D:\Projects\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.AssemblyInfo.cs
+D:\Projects\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.csproj.CopyComplete
+D:\Projects\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.dll
+D:\Projects\aaaaa\SqlDatabase\obj\Debug\netstandard2.0\SqlDatabase.pdb

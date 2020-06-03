@@ -3971,11 +3971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emil\\Desktop\\aaaaa\\SqlDatabase\\SqlDatabase.csproj",
+      "projectUniqueName": "D:\\Projects\\aaaaa\\SqlDatabase\\SqlDatabase.csproj",
       "projectName": "SqlDatabase",
-      "projectPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\SqlDatabase\\SqlDatabase.csproj",
+      "projectPath": "D:\\Projects\\aaaaa\\SqlDatabase\\SqlDatabase.csproj",
       "packagesPath": "C:\\Users\\Emil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\SqlDatabase\\obj\\",
+      "outputPath": "D:\\Projects\\aaaaa\\SqlDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3994,8 +3994,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Emil\\Desktop\\aaaaa\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\Entities\\Entities.csproj"
+            "D:\\Projects\\aaaaa\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Projects\\aaaaa\\Entities\\Entities.csproj"
             }
           }
         }

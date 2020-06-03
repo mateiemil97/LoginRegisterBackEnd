@@ -12243,11 +12243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emil\\Desktop\\aaaaa\\aaaaa\\aaaaa.csproj",
+      "projectUniqueName": "D:\\Projects\\aaaaa\\aaaaa\\aaaaa.csproj",
       "projectName": "aaaaa",
-      "projectPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\aaaaa\\aaaaa.csproj",
+      "projectPath": "D:\\Projects\\aaaaa\\aaaaa\\aaaaa.csproj",
       "packagesPath": "C:\\Users\\Emil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\aaaaa\\obj\\",
+      "outputPath": "D:\\Projects\\aaaaa\\aaaaa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12266,11 +12266,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Emil\\Desktop\\aaaaa\\Controllers\\Controllers.csproj": {
-              "projectPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\Controllers\\Controllers.csproj"
+            "D:\\Projects\\aaaaa\\Controllers\\Controllers.csproj": {
+              "projectPath": "D:\\Projects\\aaaaa\\Controllers\\Controllers.csproj"
             },
-            "C:\\Users\\Emil\\Desktop\\aaaaa\\SqlDatabase\\SqlDatabase.csproj": {
-              "projectPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\SqlDatabase\\SqlDatabase.csproj"
+            "D:\\Projects\\aaaaa\\SqlDatabase\\SqlDatabase.csproj": {
+              "projectPath": "D:\\Projects\\aaaaa\\SqlDatabase\\SqlDatabase.csproj"
             }
           }
         }

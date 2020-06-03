@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emil\\Desktop\\aaaaa\\Models\\Models.csproj",
+      "projectUniqueName": "D:\\Projects\\aaaaa\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\Models\\Models.csproj",
+      "projectPath": "D:\\Projects\\aaaaa\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\Emil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\Models\\obj\\",
+      "outputPath": "D:\\Projects\\aaaaa\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

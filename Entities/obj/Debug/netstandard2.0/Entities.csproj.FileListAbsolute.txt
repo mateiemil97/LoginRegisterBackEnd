@@ -6,3 +6,11 @@ C:\Users\Emil\Desktop\aaaaa\Entities\obj\Debug\netstandard2.0\Entities.AssemblyI
 C:\Users\Emil\Desktop\aaaaa\Entities\bin\Debug\netstandard2.0\Entities.pdb
 C:\Users\Emil\Desktop\aaaaa\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\Emil\Desktop\aaaaa\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\Projects\aaaaa\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\Projects\aaaaa\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\Projects\aaaaa\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\Projects\aaaaa\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\Projects\aaaaa\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\Projects\aaaaa\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\Projects\aaaaa\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\Projects\aaaaa\Entities\obj\Debug\netstandard2.0\Entities.pdb

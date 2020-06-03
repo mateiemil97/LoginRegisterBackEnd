@@ -40,7 +40,8 @@ namespace Controllers
             {
                 var user = new ApplicationUser()
                 {
-                    UserName = userForRegister.UserName
+                    UserName = userForRegister.UserName,
+                    EmpId = userForRegister.EmpId
                 };
 
                 var userRegistered = await _userManager.CreateAsync(user, userForRegister.Password);

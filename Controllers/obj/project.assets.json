@@ -7432,11 +7432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emil\\Desktop\\aaaaa\\Controllers\\Controllers.csproj",
+      "projectUniqueName": "D:\\Projects\\aaaaa\\Controllers\\Controllers.csproj",
       "projectName": "Controllers",
-      "projectPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\Controllers\\Controllers.csproj",
+      "projectPath": "D:\\Projects\\aaaaa\\Controllers\\Controllers.csproj",
       "packagesPath": "C:\\Users\\Emil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\Controllers\\obj\\",
+      "outputPath": "D:\\Projects\\aaaaa\\Controllers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7455,14 +7455,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Emil\\Desktop\\aaaaa\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\Entities\\Entities.csproj"
+            "D:\\Projects\\aaaaa\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Projects\\aaaaa\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\Emil\\Desktop\\aaaaa\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\Models\\Models.csproj"
+            "D:\\Projects\\aaaaa\\Models\\Models.csproj": {
+              "projectPath": "D:\\Projects\\aaaaa\\Models\\Models.csproj"
             },
-            "C:\\Users\\Emil\\Desktop\\aaaaa\\SqlDatabase\\SqlDatabase.csproj": {
-              "projectPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\SqlDatabase\\SqlDatabase.csproj"
+            "D:\\Projects\\aaaaa\\SqlDatabase\\SqlDatabase.csproj": {
+              "projectPath": "D:\\Projects\\aaaaa\\SqlDatabase\\SqlDatabase.csproj"
             }
           }
         }

@@ -5,6 +5,6 @@ namespace Entities
 {
     public class ApplicationUser: IdentityUser
     {
-        
+        public int EmpId { get; set; }
     }
 }

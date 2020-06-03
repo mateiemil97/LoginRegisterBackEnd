@@ -3659,11 +3659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emil\\Desktop\\aaaaa\\Entities\\Entities.csproj",
+      "projectUniqueName": "D:\\Projects\\aaaaa\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\Entities\\Entities.csproj",
+      "projectPath": "D:\\Projects\\aaaaa\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Emil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emil\\Desktop\\aaaaa\\Entities\\obj\\",
+      "outputPath": "D:\\Projects\\aaaaa\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
